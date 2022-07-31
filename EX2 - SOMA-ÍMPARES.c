@@ -1,4 +1,5 @@
-//Feito por Josué Hass, 
+//Feito por Josué Hass
+//josue.hass@hotmail.com
 
 #include <stdio.h>
 #include <locale.h>
